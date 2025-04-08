@@ -1,4 +1,4 @@
-# Moodle External API Integration Sample
+# Moodle External API Integration
 
 This is a simplified example of how to integrate Moodle with an external system using REST APIs.
 
